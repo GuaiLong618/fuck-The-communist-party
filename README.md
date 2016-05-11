@@ -17,6 +17,9 @@ github：https://github.com/getlantern/lantern <br>
 https://g.eeload.com/<br>
 http://so.chongbuluo.com/ (快搜-快一步搜索)<br>
 
+DNS：<br>
+PandaDNS http://dns.pandadns.xyz/<br>
+
 
 被封测试网站 <br>
 http://viewdns.info/chinesefirewall/ <br>
